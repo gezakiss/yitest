@@ -1,0 +1,31 @@
+<h1>New order</h1>
+
+<%= form_for @order, :authenticity_token => true do |f| %>
+    <% if @order.errors.any? %>
+        <div id="error_explanation">
+          <h2><%= pluralize(@order.errors.count, "error") %> prohibited this order from being saved:</h2>
+
+          <ul>
+            <% @order.errors.full_messages.each do |msg| %>
+                <li><%= msg %></li>
+            <% end %>
+          </ul>
+        </div>
+    <% end %>
+
+    <div class="field email">
+      <%= f.label :email %><br>
+      <%= f.text_field :email %>
+    </div>
+    <div class="field name">
+      <%= f.label :name %><br>
+      <%= f.text_field :name %>
+    </div>
+    <div class="field address">
+      <%= f.label :address %><br>
+      <%= f.text_field :address %>
+    </div>
+    <div class="actions">
+      <%= f.submit %>
+    </div>
+<% end %>

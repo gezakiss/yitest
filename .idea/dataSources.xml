@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3677146736">
+    <data-source source="LOCAL" name="Rails email_scrapper.yieldify.com: development" uuid="cdc40dc8-ad02-4f6a-8cb6-781b32b6aecc">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:email_scrapper_yieldify_com_development</jdbc-url>
+      <user-name>EmailScrapper_yieldify_com</user-name>
+      <user-password>dfefdfc7dfcbdfc3dfc6dff9dfc9dfd8dfcbdfdadfdadfcfdfd8dff5dfd3dfc3dfcfdfc6dfcedfc3dfccdfd3dff5dfc9dfc5dfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails email_scrapper.yieldify.com: test" uuid="21b8309c-32c8-44a2-8dfe-5f3b7fd5279a">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:email_scrapper_yieldify_com_test</jdbc-url>
+      <user-name>EmailScrapper_yieldify_com</user-name>
+      <user-password>dfefdfc7dfcbdfc3dfc6dff9dfc9dfd8dfcbdfdadfdadfcfdfd8dff5dfd3dfc3dfcfdfc6dfcedfc3dfccdfd3dff5dfc9dfc5dfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails email_scrapper.yieldify.com: production" uuid="f790d70c-f021-4316-9c29-67853fe763f5">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:email_scrapper_yieldify_com_production</jdbc-url>
+      <user-name>EmailScrapper_yieldify_com</user-name>
+      <user-password>dfefdfc7dfcbdfc3dfc6dff9dfc9dfd8dfcbdfdadfdadfcfdfd8dff5dfd3dfc3dfcfdfc6dfcedfc3dfccdfd3dff5dfc9dfc5dfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails email_scrapper.yieldify.com: development" uuid="872c250c-dd6e-45d4-9472-88ed41ff96eb">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:email_scrapper_yieldify_com_development</jdbc-url>
+      <user-name>EmailScrapper_yieldify_com</user-name>
+      <user-password>dfefdfc7dfcbdfc3dfc6dff9dfc9dfd8dfcbdfdadfdadfcfdfd8dff5dfd3dfc3dfcfdfc6dfcedfc3dfccdfd3dff5dfc9dfc5dfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails email_scrapper.yieldify.com: test" uuid="8bf09365-ba6d-4b01-8467-4be1393dc371">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:email_scrapper_yieldify_com_test</jdbc-url>
+      <user-name>EmailScrapper_yieldify_com</user-name>
+      <user-password>dfefdfc7dfcbdfc3dfc6dff9dfc9dfd8dfcbdfdadfdadfcfdfd8dff5dfd3dfc3dfcfdfc6dfcedfc3dfccdfd3dff5dfc9dfc5dfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails email_scrapper.yieldify.com: production" uuid="1f547b56-402c-4edd-b070-8cd9c3b25b43">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:email_scrapper_yieldify_com_production</jdbc-url>
+      <user-name>EmailScrapper_yieldify_com</user-name>
+      <user-password>dfefdfc7dfcbdfc3dfc6dff9dfc9dfd8dfcbdfdadfdadfcfdfd8dff5dfd3dfc3dfcfdfc6dfcedfc3dfccdfd3dff5dfc9dfc5dfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails email_scrapper.yieldify.com: development" uuid="b6aa3ff2-17b1-4f63-bc69-d5017195a942">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:email_scrapper_yieldify_com_development</jdbc-url>
+      <user-name>EmailScrapper_yieldify_com</user-name>
+      <user-password>dfefdfc7dfcbdfc3dfc6dff9dfc9dfd8dfcbdfdadfdadfcfdfd8dff5dfd3dfc3dfcfdfc6dfcedfc3dfccdfd3dff5dfc9dfc5dfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails email_scrapper.yieldify.com: test" uuid="442f2a61-cd06-449a-adb3-8228933d637b">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:email_scrapper_yieldify_com_test</jdbc-url>
+      <user-name>EmailScrapper_yieldify_com</user-name>
+      <user-password>dfefdfc7dfcbdfc3dfc6dff9dfc9dfd8dfcbdfdadfdadfcfdfd8dff5dfd3dfc3dfcfdfc6dfcedfc3dfccdfd3dff5dfc9dfc5dfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails email_scrapper.yieldify.com: production" uuid="86d6251e-189b-4268-a423-81f0fefae82b">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:email_scrapper_yieldify_com_production</jdbc-url>
+      <user-name>EmailScrapper_yieldify_com</user-name>
+      <user-password>dfefdfc7dfcbdfc3dfc6dff9dfc9dfd8dfcbdfdadfdadfcfdfd8dff5dfd3dfc3dfcfdfc6dfcedfc3dfccdfd3dff5dfc9dfc5dfc7</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
